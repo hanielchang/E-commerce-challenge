@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Description
 This is an application that demonstrates backend functionality of a basic commerce store. The store has items 
