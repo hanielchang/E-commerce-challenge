@@ -8,6 +8,6 @@ GET all, GET single, ADD item, UPDATE item, and DELETE item. The functionality o
 for each 3 areas in the following 2 videos. Part 1 shows the setup and configuration of database, and the routes 
 for the categories. Part 2 shows the routes for the products and tags.
 
-Part 1 - https://watch.screencastify.com/v/V3G6E3grCif86458295E 
+Part 1 - https://watch.screencastify.com/v/V3G6E3grCif86458295E
 
 Part 2 - https://watch.screencastify.com/v/lTN6Y34avgVAXDILe17B
